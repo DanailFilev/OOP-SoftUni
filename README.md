@@ -28,4 +28,4 @@ Problem Solutions repository for the tasks given in the course.
 # Certificate
 Link to certificate - https://softuni.bg/certificates/details/131002/362d5379
 <p></p>
-[![C-OOP.png](https://i.postimg.cc/g2QzLMGr/C-OOP.png)](https://postimg.cc/87dQqmJV)
+<img src="https://i.postimg.cc/g2QzLMGr/C-OOP.png">
